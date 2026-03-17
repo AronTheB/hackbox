@@ -51,9 +51,10 @@ export default function HeroSection() {
         className="text-center mx-auto my-6 relative z-10 leading-relaxed"
         style={{
           maxWidth: 360,
-          color: '#5a3e20',
+          color: '#2a1a08',
           fontFamily: "'Courier Prime', monospace",
           fontSize: '1rem',
+          fontWeight: 500,
         }}
       >
         Design, build and complete hardware projects. Make video tutorials for
@@ -71,7 +72,7 @@ export default function HeroSection() {
           className="px-10 py-2 border-2 text-center font-mono font-bold tracking-widest text-sm uppercase"
           style={{
             borderColor: '#7a5c38',
-            color: '#5a3e20',
+            color: '#2a1a08',
             backgroundColor: 'transparent',
             fontFamily: "'Courier Prime', monospace",
             letterSpacing: '0.2em',
