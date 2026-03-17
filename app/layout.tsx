@@ -23,8 +23,8 @@ export default function RootLayout({ children }: Readonly<{ children: React.Reac
       <body className={`${geistSans.variable} ${geistMono.variable} antialiased`}>
   <a href="https://hackclub.com/">
     <img
-      style={{ position: 'fixed', top: 0, left: 10, border: 0, width: 256, zIndex: 999 }}
-      src="https://assets.hackclub.com/flag-orpheus-top.svg"
+      style={{ position: 'absolute', top: 10, left: 10, border: 0, width: 128, zIndex: 999, opacity: 0.5 }}
+      src="https://assets.hackclub.com/flag-standalone-wtransparent.svg"
       alt="Hack Club"
     />
   </a>
