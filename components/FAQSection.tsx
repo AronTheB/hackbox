@@ -12,7 +12,7 @@ interface FAQItem {
 const squares = [
   { color: '#f0d040', top: '15%',  left: '4%',  size: 52, rot: '-15deg', delay: '0s' },
   { color: '#e84a4a', top: '4%',  right: '14%', size: 44, rot: '10deg',  delay: '0.4s' },
-  { color: '#4ec47a', top: '22%', right: '3%',  size: 40, rot: '-8deg',  delay: '0.8s' },
+  { color: '#4ec47a', top: '21%', right: '3%',  size: 40, rot: '-8deg',  delay: '0.8s' },
   { color: '#e05a7a', top: '46%', left: '3%',   size: 46, rot: '12deg',  delay: '0.2s' },
   { color: '#4a9ae8', top: '60%', right: '5%',  size: 42, rot: '-10deg', delay: '0.6s' },
   { color: '#4ec47a', top: '30%', left: '8%',   size: 38, rot: '8deg',   delay: '0.3s' },
