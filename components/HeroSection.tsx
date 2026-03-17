@@ -41,7 +41,7 @@ export default function HeroSection() {
 
       <div className="flex justify-center mt-4 mb-2 relative z-10">
         <div className="text-center">
-          <Image src="/assets/HACKBOX.png" alt="HackBox" width={400} height={220} priority unoptimized/>
+          <Image src="/assets/hackbox.png" alt="HackBox" width={400} height={220} priority unoptimized/>
         </div>
       </div>
 
