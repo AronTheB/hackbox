@@ -5,6 +5,7 @@ import HeroSection from '@/components/HeroSection'
 import HowItWorksSection from '@/components/HowItWorksSection'
 import FAQSection from '@/components/FAQSection'
 import Footer from '@/components/Footer'
+import { Analytics } from "@vercel/analytics/next"
 
 export default function Home() {
   return (
@@ -13,6 +14,7 @@ export default function Home() {
       <HowItWorksSection />
       <FAQSection />
       <Footer />
+      <Analytics />
     </main>
   )
 }
