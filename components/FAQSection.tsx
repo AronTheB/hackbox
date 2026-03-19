@@ -35,7 +35,7 @@ const faqs: FAQItem[] = [
   {
     question: "How much does it cost?",
     answer: "It's 100% free! if you design something, we'll pay for all your materials (max 400$).",
-    bg: '#4ec47a',
+    bg: '#e8a44a',
     rot: '1.5deg',
     col: 'right',
   },
@@ -63,8 +63,23 @@ const faqs: FAQItem[] = [
   {
     question: 'Will HackBoxes be available after the event?',
     answer: 'Yes. We plan on giving HackBoxes in exchange of hours in other HackClub event and also as prizes at hackathons.',
-    bg: '#4a9ae8',
+    bg: '#f0d040',
     rot: '0.5deg',
+    col: 'right',
+  },
+  
+  {
+    question: 'How many projects can i make',
+    answer: 'As many as you would like, but you should take time to refine a project instead of starting a new one.',
+    bg: '#4ec47a',
+    rot: '-0.5deg',
+    col: 'right',
+  },
+  {
+    question: 'Will i get anything if i dont win.',
+    answer: 'YES. When you ship a project you will get boxes which can be used in a shop to buy hardware related stuff. You could even buy a HackBox after the event.',
+    bg: '#4a9ae8',
+    rot: '1deg',
     col: 'right',
   },
   {
@@ -83,17 +98,10 @@ const faqs: FAQItem[] = [
     col: 'left',
   },
   {
-    question: 'Will i get anything if i dont win.',
-    answer: 'YES. When you ship a project you will get boxes which can be used in a shop to buy hardware related stuff. You could even buy a HackBox after the event',
-    bg: '#4a9ae8',
-    rot: '1deg',
-    col: 'right',
-  },
-  {
-    question: 'How many projects can i make',
-    answer: 'As many as you would like, but you should take time to refine a project instead of starting a new one',
-    bg: '#4ec47a',
-    rot: '-0.5deg',
+    question: 'Why is HackBox important to me?',
+    answer: 'From my experience it is much easier to learn when you don\'t have to wait for materials and also someone guides you through the process. Another reason, teens in a lot of countries (in mine too) cant afford materials for projects, and i want to change that by this project by allowing anyone to get grants for their build.',
+    bg: '#b06ad4',
+    rot: '0.5deg',
     col: 'right',
   },
 ]
