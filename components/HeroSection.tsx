@@ -57,11 +57,8 @@ export default function HeroSection() {
           fontWeight: 500,
         }}
       >
-        Design, build and complete hardware projects. Make video tutorials for
-        them and we will ship the materials in a box to other hackers so they
-        can learn from your project. And you also get prizes for your projects!
+        Build and complete a hardware project, create a video tutorial, and we will turn it into a box so hackers around the world can build it too, plus you earn cool prizes along the way.
       </p>
-
       <WavyLine />
 
       <div className="flex flex-col items-center my-10 relative z-10">
